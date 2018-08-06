@@ -1,0 +1,34 @@
+{
+  "name": "tom",
+  "version": "1.0.0",
+  "description": "f",
+  "main": "AddBox.js",
+  "dependencies": {
+    "aes-js": "^3.1.0",
+    "apoc": "^2.1.6",
+    "async": "^2.4.1",
+    "cors": "^2.8.4",
+    "easyimage": "^2.1.0",
+    "enum": "^2.4.0",
+    "express": "^4.15.3",
+    "faye-websocket": "^0.11.1",
+    "filter-array": "^0.2.0",
+    "firebase": "^5.3.1",
+    "firebase-admin": "^4.2.1",
+    "fs": "^0.0.1-security",
+    "geolib": "^2.0.22",
+    "moment": "^2.19.2",
+    "neo4j": "^2.0.0-RC2",
+    "node-cryptojs-aes": "^0.4.0",
+    "node-image-resize": "^0.0.2",
+    "rimraf": "^2.6.1",
+    "time": "^0.12.0",
+    "write": "^0.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
